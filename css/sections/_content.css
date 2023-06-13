@@ -1,0 +1,14 @@
+/*Content*/
+.content {
+  padding-top: 25px;
+  margin-bottom: 50px;
+}
+.content__sidebar {
+  float: left;
+  width: 220px;
+}
+.content__main {
+  float: right;
+  width: 700px;
+}
+/*# sourceMappingURL=_content.css.map */
